@@ -1,6 +1,6 @@
 # clase 77 Ejercitacion
 
-1. En el HTML se debe ver en forma de <ul> y <li>, la lista de usuarios (solo el nombre). No es necesario ningun estilado. 
+1. En el HTML se debe ver en forma de `<ul>` y `<li>`, la lista de usuarios (solo el nombre). No es necesario ningun estilado. 
 
 2. Una vez logrado eso, agregar al lado de cada usuario un boton que diga "borrar". Al hacerse click, debe enviarse el metodo DELETE a la ruta /users/${id} con el id del usuario. 
 
